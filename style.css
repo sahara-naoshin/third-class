@@ -1,0 +1,28 @@
+p{
+  color:red;
+  background-color:blue;
+  
+}
+.sahara{
+  color:black;
+  background-color: white;
+  
+}
+#naoshin{
+	color:yellow;
+	background-color:tomato;
+
+}
+
+h6.sahara{
+    color: brown;
+    background-color: yellow;
+    font-size: 50px;
+}
+
+body{
+    background: url(one.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
